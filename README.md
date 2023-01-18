@@ -7,9 +7,9 @@
 
 - 📈 My GitHub Stats:
 
-![GuilhermeCardos GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuilhermeCardos&&show_icons=true&theme=dark)
+![GuilhermeCardos GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuilhermeCardos&&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCardos&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/GuilhermeCardos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCardos&layout=compact&&show_icons=true&theme=tokyonight)](https://github.com/GuilhermeCardos/github-readme-stats)
 
 <!--
 **GuilhermeCardos/GuilhermeCardos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
